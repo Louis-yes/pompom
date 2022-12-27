@@ -1,4 +1,5 @@
-![the pom pom logo](/desktop/src-tauri/icons/Square142x142Logo.png)
+<img alt="the pom pom logo" src="./desktop-w/build/appicon.png" style="width:200px; height: auto;"/>
+
 # Pompom
 Pompom is a pomodoro method desktop app, with a focus on calm design and minimalism.
 
