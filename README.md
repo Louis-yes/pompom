@@ -13,9 +13,14 @@ Pompom is built along the principles of [calm design](https://en.wikipedia.org/w
 
 ## Tech details
 Pompom is built with typescript, css and html and bundled with Tauri.
-It will be released soon, in the meantime you can use [Tauri](https://tauri.app/) to build it, from the desktop folder.
+It will be released soon, in the meantime you can use [Wails](https://wails.io/) to build it, from the desktop-w folder.
 I've written it in a [functional](https://en.wikipedia.org/wiki/Functional_programming)-ish way, which was a good exercise and imo makes it easier to write and maintain.
 
 ### known debt
-- no tests
+- ~~no tests~~
+- only some tests
 - round editing isn't as user friendly as it could be (and not documented)
+
+## todo
+- create nice landing page
+- make round editing better
