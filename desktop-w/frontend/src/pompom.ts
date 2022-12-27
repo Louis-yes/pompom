@@ -118,7 +118,7 @@ export default function Pompom(this: Pompom){
     function tick (ss:State) {
         return {
             ...ss,
-            time: state.time - 1000,
+            time: ss.time - 1000,
             mode: modes.running
         }
     }
